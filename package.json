@@ -1,18 +1,16 @@
 {
-  "name": "rollup-learn",
-  "version": "0.0.1",
-  "type": "commonjs",
-  "description": "",
-  "scripts": {
-    "build": "rollup -c"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@rollup/plugin-commonjs": "^23.0.0",
-    "@rollup/plugin-node-resolve": "^15.0.0",
-    "lodash": "^4.17.21",
-    "rollup": "^3.1.0"
-  }
+  "name": "bundler-build",
+  "keywords": [
+    "swc",
+    "tool",
+    "tools",
+    "bundler",
+    "build",
+    "babel",
+    "rust",
+    "platform",
+    "esbuild",
+    "Compilation",
+    "Bundling"
+  ]
 }
